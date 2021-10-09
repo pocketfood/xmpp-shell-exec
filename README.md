@@ -2,5 +2,6 @@
 Send outputs made in shell and send them to your phone 
 
 
-'npm install @xmpp/client @xmpp/debug'
-'npm install xmppjs'
+`npm install @xmpp/client @xmpp/debug`
+
+`npm install xmppjs`
