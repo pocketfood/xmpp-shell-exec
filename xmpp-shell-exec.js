@@ -26,7 +26,7 @@ xmpp.on("online", async (username) => {
 
   const message = xml(
     "message",
-    { type: "chat", to: username },
+    { type: "chat", to: "username" },
     xml("body", {}, 'Bot started on ', date),
   );
   await xmpp.send(message);
