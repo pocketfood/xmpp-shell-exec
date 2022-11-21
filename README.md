@@ -10,3 +10,6 @@ Send outputs made in shell and send them to your phone
 
 The clear command relogs the user and resets the session and so does the bell sound and running shell scripts with she-bang.
 
+---
+
+The login uses prompt
