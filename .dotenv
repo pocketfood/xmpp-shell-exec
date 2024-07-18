@@ -1,0 +1,6 @@
+XMPP_SERVICE=wss://example.com:5443/ws
+XMPP_DOMAIN=example.com
+XMPP_RESOURCE=uploadbot
+XMPP_USERNAME=user
+XMPP_PASSWORD=password
+UPLOAD_DOMAIN=upload.example.com
